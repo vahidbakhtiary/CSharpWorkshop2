@@ -1,0 +1,8 @@
+C:\Users\vahid\source\repos\Workshop2\Finance\bin\Debug\Finance.exe.config
+C:\Users\vahid\source\repos\Workshop2\Finance\bin\Debug\Finance.exe
+C:\Users\vahid\source\repos\Workshop2\Finance\bin\Debug\Finance.pdb
+C:\Users\vahid\source\repos\Workshop2\Finance\obj\Debug\Finance.Properties.Resources.resources
+C:\Users\vahid\source\repos\Workshop2\Finance\obj\Debug\Finance.csproj.GenerateResource.cache
+C:\Users\vahid\source\repos\Workshop2\Finance\obj\Debug\Finance.csproj.CoreCompileInputs.cache
+C:\Users\vahid\source\repos\Workshop2\Finance\obj\Debug\Finance.exe
+C:\Users\vahid\source\repos\Workshop2\Finance\obj\Debug\Finance.pdb
